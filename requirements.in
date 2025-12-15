@@ -14,3 +14,20 @@ lat-lon-parser
 matplotlib
 tqdm
 overpy
+pymupdf
+pytesseract
+natsort
+pillow
+python-slugify
+fcache
+geojson
+sqlite_utils
+datasette @ git+https://github.com/wragge/datasette@update-debian
+beautifulsoup4
+datasette-search-all
+datasette-template-sql
+datasette-template-request
+geojson-to-sqlite
+datasette-leaflet-geojson
+geographiclib
+nltk

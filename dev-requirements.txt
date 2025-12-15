@@ -62,6 +62,7 @@ charset-normalizer==3.4.3
     #   requests
 click==8.3.0
     # via
+    #   -c requirements.txt
     #   black
     #   rocrate
 comm==0.2.3
@@ -275,7 +276,9 @@ platformdirs==4.4.0
     #   jupyter-core
     #   virtualenv
 pluggy==1.6.0
-    # via pytest
+    # via
+    #   -c requirements.txt
+    #   pytest
 pre-commit==4.3.0
     # via -r dev-requirements.in
 prometheus-client==0.23.1
